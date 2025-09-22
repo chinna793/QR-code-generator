@@ -20,7 +20,8 @@ A simple, stylish, and responsive QR Code Generator built with **React.js**. It 
 ### Installation
 
 ```bash
-git clone https://github.com/neerajguptha/QR_Code_Generator.git
+git clone https://github.com/chinna793/QR-code-generator
 cd QR_Code_Generator
 npm install
 npm run dev
+
